@@ -1,0 +1,8 @@
+  [1m[35m (1170.4ms)[0m  [1m[35mCREATE DATABASE "reach_it_development" ENCODING = 'unicode'[0m
+  ↳ bin/rails:9
+  [1m[35m (253.4ms)[0m  [1m[35mCREATE DATABASE "reach_it_test" ENCODING = 'unicode'[0m
+  ↳ bin/rails:9
+  [1m[35m (45.1ms)[0m  [1m[35mCREATE DATABASE "reach_it_development" ENCODING = 'unicode'[0m
+  ↳ bin/rails:9
+  [1m[35m (0.8ms)[0m  [1m[35mCREATE DATABASE "reach_it_test" ENCODING = 'unicode'[0m
+  ↳ bin/rails:9
